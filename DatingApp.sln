@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "DatingApp.Client", "DatingApp.Client\DatingApp.Client.esproj", "{F0859276-E180-4A0C-84F5-DDEB05C54CE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,12 @@ Global
 		{B17CC87F-00B4-4833-A2C0-8444D61866CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B17CC87F-00B4-4833-A2C0-8444D61866CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B17CC87F-00B4-4833-A2C0-8444D61866CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0859276-E180-4A0C-84F5-DDEB05C54CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0859276-E180-4A0C-84F5-DDEB05C54CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0859276-E180-4A0C-84F5-DDEB05C54CE5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F0859276-E180-4A0C-84F5-DDEB05C54CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0859276-E180-4A0C-84F5-DDEB05C54CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0859276-E180-4A0C-84F5-DDEB05C54CE5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

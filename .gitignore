@@ -5,6 +5,7 @@
 
 # test db Files
 *.db
+dating.db*
 # dotenv files
 .env
 
@@ -491,3 +492,10 @@ $RECYCLE.BIN/
 *.swp
 /DatingApp.API/appsettings*.json
 
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
