@@ -3,9 +3,6 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# appsetting files
-appsettings*.json
-
 # test db Files
 *.db
 # dotenv files
@@ -492,5 +489,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-/DatingApp.API/appsettings.json
-/DatingApp.API/appsettings.Development.json
+/DatingApp.API/appsettings*.json
+
